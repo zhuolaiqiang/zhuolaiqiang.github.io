@@ -26,7 +26,7 @@ title: "关于我"
 #### 微信：153-8237-3995
 #### 微信二维码
 
-![subtle swirly bokeh in the background](https://zhuolaiqiang.github.io/img/test.jpg)
+![subtle swirly bokeh in the background](https://zhuolaiqiang.github.io/img/weixin.png)
 
 
 
