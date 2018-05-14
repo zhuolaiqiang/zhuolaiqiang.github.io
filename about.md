@@ -2,9 +2,9 @@
 title: "关于我"
 ---
 
-### About Me
+### 我的经历
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+我是一个程序员，2008年毕业于一个石油学校（专业钻机，挖石油）。毕业后顺利成为一名石油工人。
 
 ### My life
 
