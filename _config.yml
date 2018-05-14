@@ -14,7 +14,7 @@ style:
 
 navigation:
   - index.html
-  - archive.html
+  # - archive.html
   - about.md
 
 comments:
