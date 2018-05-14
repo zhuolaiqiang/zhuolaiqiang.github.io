@@ -26,6 +26,8 @@ title: "关于我"
 #### 微信：153-8237-3995
 #### 微信二维码
 
+![subtle swirly bokeh in the background](https://zhuolaiqiang.github.io/img/test.jpg)
+
 
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
