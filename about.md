@@ -22,10 +22,13 @@ title: "关于我"
 
 ### 我的联系方式
 
-#### 手机：153-8237-3995
-#### 邮箱：zhuolaiqiang@163.com
-#### 微信：153-8237-3995
-#### 微信二维码：
+手机：153-8237-3995
+
+邮箱：zhuolaiqiang@163.com
+
+微信：153-8237-3995
+
+微信二维码：
 
 ![subtle swirly bokeh in the background](https://zhuolaiqiang.github.io/img/weixin.png)
 
