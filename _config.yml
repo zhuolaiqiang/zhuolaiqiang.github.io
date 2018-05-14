@@ -4,7 +4,7 @@ description: "禚来强的个人技术博客"
 more: "read more »"
 url: "https://zhuolaiqiang.github.io/"
 baseurl: "/"
-paginate: 2
+paginate: 10
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
 
