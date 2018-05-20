@@ -25,7 +25,7 @@ boolean b = obj instanceof Foo; //obj引用对象的真实类型是否为Foo类�
 boolean isInstance (Object object)
 ```
 
-* 这里展示了isInstance和instanceof最大的不同：动态性。动态性体现在和对象比较的类型是在运行时调用对象的getClass方法确定。
+* 这里展示了isInstance和instanceof最大的不同：动态性。动态性体现在：类型是在运行时，调用对象的getClass方法确定的，而不是在编译时确定的。
 
 ```
 
