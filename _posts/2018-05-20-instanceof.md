@@ -13,26 +13,31 @@ categories: text
 
 * 虽然这里instanceof表达式的左操作数是一个静态类型为Object的引用，但它指向的对象的实际类型是Foo，所以该instanceof表达式的值就为true。
 
-```
+{% highlight java %}
+
 Object obj = new Foo();
 boolean b = obj instanceof Foo; //obj引用对象的真实类型是否为Foo类型或Foo的子类，true
 ```
 
+{% endhighlight %}
+
 * isInstance是Class对象的实例方法
 
-```
+{% highlight java %}
+
 //函数原型
 boolean isInstance (Object object)
-```
+
+{% endhighlight %}
 
 * 这里展示了isInstance和instanceof最大的不同：动态性。动态性体现在：类型是在运行时，调用对象的getClass方法确定的，而不是在编译时确定的。
 
-```
+{% highlight java %}
 
 Object o1 = new A();
 Object o2 = new B();
 
 boolean b = o1.getClass().isInstance(o2);
 
-```
+{% endhighlight %}
 
