@@ -17,7 +17,6 @@ categories: text
 
 Object obj = new Foo();
 boolean b = obj instanceof Foo; //obj引用对象的真实类型是否为Foo类型或Foo的子类，true
-```
 
 {% endhighlight %}
 
