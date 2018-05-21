@@ -1,5 +1,5 @@
 ---
-title:  "java 中instanceof和isInstance 区别"
+title:  "java 中instanceof、isInstance、isAssignableFrom 区别"
 
 date:   2018-05-20
 
