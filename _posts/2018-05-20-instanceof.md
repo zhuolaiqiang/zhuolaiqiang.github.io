@@ -40,3 +40,13 @@ boolean b = o1.getClass().isInstance(o2);
 
 {% endhighlight %}
 
+* class的实例方法isAssignableFrom。下面的例子表示class1是父类或父接口，class2是子类或子接口（方法名字定义产生歧义）
+
+{% highlight java %}
+
+//原型  public boolean isAssignableFrom(Class<?> cls)
+
+class1.isAssignableFrom(class2);
+
+{% endhighlight %}
+
